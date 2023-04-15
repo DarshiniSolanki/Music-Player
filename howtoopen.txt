@@ -1,0 +1,2 @@
+c->xamp->htdocs->slotify
+http://localhost/Slotify/register.php
